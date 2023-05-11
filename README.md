@@ -20,6 +20,8 @@ Use Closing Operation
 ### Step 6:
 Display all the output images
 
+</br></br>
+</br>
  
 ## Program:
 Developed By   : **Shafeeq Ahamed. S**
@@ -63,6 +65,9 @@ plot(img1)
 img2 = cv2.morphologyEx(image,cv2.MORPH_CLOSE,kernel)
 plot(img2)
 ```
+
+</br></br>
+
 ## Output:
 
 ### Display the input Image
